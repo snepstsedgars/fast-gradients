@@ -11,3 +11,4 @@ selenium-debug.log
 npm-debug.log
 .env
 .next
+/dist-firebase-public
